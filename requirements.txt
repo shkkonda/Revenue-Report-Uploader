@@ -1,0 +1,7 @@
+streamlit
+sqlalchemy
+st-annotated-text
+psycopg2-binary
+pandas
+requests
+openpyxl
